@@ -1,4 +1,4 @@
-<p align="center" style="font-size:25">JOB</p>
+<p align="center" style="font-size:25px">JOB</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
