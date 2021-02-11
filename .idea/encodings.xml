@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/app/Admin/Controllers/PersonController.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Admin/routes.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/composer.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/admin.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/database/migrations/2021_02_11_170221_create_Person_table.php" charset="UTF-8" />
   </component>
